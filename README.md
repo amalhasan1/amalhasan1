@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Amal Hasan
-- 👀 I’m a data engineer.
+- 👋 Hi, I’m Amal Hasan, and I’m a data engineer.
 - 🌱 I have Bachelor degree in engineering (Computer science department).
     -Graduated from ITI (Information technology institute) professional 3d art diploma. 
     -lately, I’ve finished Udacity data analysis Nano degree provided by egFWD–ITIDA, with all its tracks.
