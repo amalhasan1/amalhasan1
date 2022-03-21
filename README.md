@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Amal Hasan
-- 👀 I’m interested in Data science & Data Analytics
-- 🌱 I’m currently learning Data analysis differnt tools & Techniques
-- 💞️ I’m looking to collaborate on Practising Data analytical projects
+- 👀 I’m a data engineer.
+- 🌱 I have Bachelor degree in engineering (Computer science department).
+    -Graduated from ITI (Information technology institute) professional 3d art diploma. 
+    -lately, I’ve finished Udacity data analysis Nano degree provided by egFWD–ITIDA, with all its tracks.
+
+- 💞️ I’m looking forward to work on analytical projects and utilize my skills to derive useful data insights and derive business solutions.
 - 📫 How to reach me ... amal92hasan@gmail.com
 
 <!---
